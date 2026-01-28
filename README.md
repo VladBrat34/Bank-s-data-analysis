@@ -19,4 +19,4 @@
    df = pd.read_csv(r'C:\Users\Vlad\Downloads\bank.csv', sep=';')
    df.head()
    ```
-   
+   ![Первые 5 строчек таблицы](images/funnel_analysis.png)
